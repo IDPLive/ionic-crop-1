@@ -35,7 +35,7 @@
   },
   "deprecated": false,
   "description": "Ionic Native - Native plugins for ionic apps",
-  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "homepage": "https://github.com/danielsogl/awesome-cordova-plugins#readme",
   "license": "MIT",
   "module": "index.js",
   "name": "ionic-crop",
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/ionic-native.git"
+    "url": "git+https://github.com/danielsogl/awesome-cordova-plugins.git"
   },
   "typings": "index.d.ts",
   "version": "5.27.0"
