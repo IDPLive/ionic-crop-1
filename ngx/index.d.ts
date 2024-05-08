@@ -24,7 +24,7 @@ export interface CropOptions {
  * @interfaces
  * CropOptions
  */
-export declare class CropOriginal extends IonicNativePlugin {
+export declare class Crop extends IonicNativePlugin {
     /**
      * Crops an image
      * @param {string} pathToImage
@@ -33,5 +33,3 @@ export declare class CropOriginal extends IonicNativePlugin {
      */
     crop(pathToImage: string, options?: CropOptions): Promise<string>;
 }
-
-export declare const Crop: CropOriginal;
